@@ -14,4 +14,4 @@ In `contants.inc` there is a PORT constant, you can change the port there.
 
 ## TODO
 
-* Makefile
+* Makefile: Done 7/18
